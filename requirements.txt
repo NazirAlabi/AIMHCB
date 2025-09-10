@@ -1,0 +1,8 @@
+streamlit
+pandas
+groq
+python-dotenv
+vaderSentiment
+numpy
+fer
+opencv-python-headless
